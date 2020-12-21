@@ -1,0 +1,2 @@
+this is my first git dir
+i have initiate the empty git repo
